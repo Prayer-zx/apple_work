@@ -1,0 +1,9 @@
+.font1 {
+    display: flex;
+    font-family: "SF Pro SC", "HanHei SC", "SF Pro Text", "Myriad Set Pro", "SF Pro Icons",
+    "PingFang SC", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+    font-size: 1px;
+    justify-content: center;
+    color: rgb(245, 245, 247);
+    font-weight: lighter;
+}
